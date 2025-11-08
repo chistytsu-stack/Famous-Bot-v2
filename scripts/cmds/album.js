@@ -109,9 +109,9 @@ module.exports = {
       const displayedCategories = displayNames.slice(startIndex, endIndex);
 
       const message = `𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐀𝐥𝐛𝐮𝐦 𝐕𝐢𝐝𝐞𝐨 𝐋𝐢𝐬𝐭 🎀\n` +
-        "𐙚━━━━━━━━━━━━━━━━━━━━━ᡣ𐭩\n" +
+        "✦━━━━━━━━━━━━━━━━✦\n" +
         displayedCategories.map((option, index) => `${startIndex + index + 1}. ${option}`).join("\n") +
-        "\n𐙚━━━━━━━━━━━━━━━━━━━━━ᡣ𐭩" +
+        "\n✦━━━━━━━━━━━━━━━━✦" +
         `\n♻ | 𝐏𝐚𝐠𝐞 [${page}/${totalPages}]<😘\nℹ | 𝐓𝐲𝐩𝐞 !album ${page + 1} - 𝐭𝐨 𝐬𝐞𝐞 𝐧𝐞𝐱𝐭 𝐩𝐚𝐠𝐞.`.repeat(page < totalPages);
 
       await api.sendMessage(message, event.threadID, (error, info) => {
