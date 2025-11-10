@@ -1,62 +1,59 @@
-<img src="https://i.imgur.com/djgN8Dq.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> BADHON -𝗕𝗢𝗧 -BADHON EXIST 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
-<!-- Github README -->
+# 💫 About Me
 
-<p align="center"><img src="https://img.shields.io/badge/I Am BADHON %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+👋 Hi there! I'm **Meheraz Islam (Chisty)** — also known as **@chistytsu-stack** 👨‍💻
+💬 *Bot Creator & Messenger Automation Expert*
+📍 Based in **Chattogram, Bangladesh** 🇧🇩
+🕌 *"Allah is the best"*
 
-</i></b></h3>
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ᴄʜᴀᴛ ʙᴏᴛ &nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+---
 
+## 🚀 What I Do
 
+🤖 I design and develop **Messenger Bots** with advanced AI-driven responses.
+💡 Focused on **GPT-powered coding**, automation, and user interaction enhancement.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+---
 
+## 🧠 Skills & Tools
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/BAYJID-404-BOYZ"><img width=550 src="https://github-profile-trophy.vercel.app/?username=𝐃𝐈𝐃𝐀𝐑 𝐀𝐇𝐌𝐄𝐃&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+* 💬 **GPT Coding & AI Integration**
+* ⚙️ **Node.js / JavaScript**
+* 🤝 **Bot Frameworks (GoatBot, Mirai, etc.)**
+* 🌐 **REST API Development**
 
-</p>
-<p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/BAYJID-404-BOYA /count.svg" alt="Visitors">
-</p>
+---
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+## 🌐 Connect With Me
 
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+* 🌍 **Facebook:** [facebook.com/chisty.57](https://www.facebook.com/chisty.57)
+* 💌 **GitHub:** [@chistytsu-stack](https://github.com/chistytsu-stack)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
-- ➪ 𝗡𝗔𝗠𝗘      : 𝐃𝐈𝐃𝐀𝐑 𝐀𝐇𝐌𝐄𝐃
+## 📊 GitHub Stats
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chistytsu-stack\&show_icons=true\&theme=tokyonight)
 
-- ➪  𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡   : 𝗜𝗦𝗟𝗔𝗠
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chistytsu-stack\&layout=compact\&theme=tokyonight)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
-- ➪ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 :- 𝗦𝗧𝗨𝗗𝗬
+## 🔥 Contribution Streak
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+![GitHub Streak](https://streak-stats.demolab.com/?user=chistytsu-stack\&theme=tokyonight)
 
-- ➪ 𝗥𝗘𝗟𝗔𝗧𝗜𝗢𝗡𝗦𝗛𝗜𝗣 :- 𝗦𝗜𝗡𝗚𝗟𝗘
+---
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+## ✨ Animated Profile Header
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [BADHON EXIST](https://www.facebook.com/Didar.Einstein12)
+![Welcome Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&duration=3000\&pause=1000\&color=00E1FF\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+Chisty's+Profile!;Messenger+Bot+Developer;GPT+Coder;Automation+Lover)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
-- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [ERROR](error)
+## 🖼️ Profile Avatar
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+![Profile Avatar](https://www.facebook.com/share/17ksjuZYsr/)
 
-<h3><b><i> Contact me in Touch :</i></b></h3>
-<a href="https://github.com/didar652/DIDAR-BOT-CHAT.git"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://www.facebook.com/Didar.Einstein12"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/alvee.didar"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+---
+
+⭐️ From [Meheraz Islam (Chisty)](https://github.com/chistytsu-stack)
